@@ -10,4 +10,7 @@ function findLargest(arr) {
 }
 
 console.log(findLargest([3, 9, 2, 15, 7])); //  print 15
-console.log(findLargest([-5, -1, -8]));     // should  -1
+console.log(findLargest([-5, -1, -8]));     // print  -1
+
+
+// Big O: O(n)
