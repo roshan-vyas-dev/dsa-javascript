@@ -22,3 +22,7 @@ console.log(hasDuplicatesFast([1, 2, 3, 4])); // false
 console.log(hasDuplicatesFast([1, 2, 3, 2])); // true
 console.log(hasDuplicatesFast([]));           // false
 console.log(hasDuplicatesFast([7]));          // false
+
+
+// Big O (time): O(n)
+// Extra memory (space): O(n) because of seen
